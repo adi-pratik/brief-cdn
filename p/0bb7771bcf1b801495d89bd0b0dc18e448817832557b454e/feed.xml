@@ -19,21 +19,14 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>PredictStreet Intel — null episode 2026-08-14</title>
-      <description>Window: 2026-08-13T12:23:38+04:00 → 2026-08-14T12:23:38+04:00
-
-The one thing
-
-- Nothing material to report: no primary regulatory filings, no venue-level fee/market-structure changes, no new licences or outages from the Tier‑1 competitors (Polymarket, Kalshi) surfaced in the window after cite‑check.
-
-What I checked (select evidence)
-
-- CFTC press releases and no‑action/notice pages for 2026 — lat…</description>
+      <title>Null night — quiet window</title>
+      <description>## Summary
+No material events for PredictStreet to act on in the window 2026-08-13T12:28:56.822596+04:00 → 2026-08-14T12:28:56.822596+04:00. Scans of Tier‑1 competitors (Polymarket, Kalshi), major aggregator/status pages, CFTC public search, and official product pages produced background items and community chatter but no primary announcements, filings, outages, fee or product changes that would …</description>
       <guid isPermaLink="false">ps-intel-2026-08-14</guid>
-      <pubDate>Fri, 14 Aug 2026 08:24:31 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-14.mp3" length="797576" type="audio/mpeg" />
-      <itunes:title>PredictStreet Intel — null episode 2026-08-14</itunes:title>
-      <itunes:duration>1:18</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 08:29:59 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-14.mp3" length="1121704" type="audio/mpeg" />
+      <itunes:title>Null night — quiet window</itunes:title>
+      <itunes:duration>2:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-14.json" type="application/json+chapters" />
