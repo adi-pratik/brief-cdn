@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>PredictStreet Intel</title>
+    <link>http://192.168.200.41:8787/p/local/feed.xml</link>
+    <language>en-us</language>
+    <description>Private overnight briefing for the Head of Products. Event contracts, venues, regulation, and product/tech — only what moved, and what it means for PredictStreet. Not for distribution.</description>
+    <generator>predictstreet-intel-harness</generator>
+    <atom:link href="http://192.168.200.41:8787/p/local/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Head of Products — private</itunes:author>
+    <itunes:summary>Private overnight briefing for the Head of Products. Event contracts, venues, regulation, and product/tech — only what moved, and what it means for PredictStreet. Not for distribution.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Business">
+      <itunes:category text="Investing" />
+    </itunes:category>
+    <itunes:image href="http://192.168.200.41:8787/p/local/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Head of Products — private</itunes:name>
+    </itunes:owner>
+    <podcast:locked>yes</podcast:locked>
+    <item>
+      <title>14 Aug — Fixture: the car path works</title>
+      <description># INTEL 2026-08-14 — private, Head of Products
+Window: fixture    Run: fixture
+
+## The one thing
+The car path works if this episode appears in Pocket Casts.
+
+## What moved
+Fixture only. No outside window.
+
+## What I would do
+- Watch: confirm auto-download before the first real commute.
+- Ignore: this tape as a source of market facts.</description>
+      <guid isPermaLink="false">ps-intel-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 08:10:21 +0000</pubDate>
+      <enclosure url="http://192.168.200.41:8787/p/local/2026-08-14.mp3" length="410502" type="audio/mpeg" />
+      <itunes:title>14 Aug — Fixture: the car path works</itunes:title>
+      <itunes:duration>0:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="http://192.168.200.41:8787/p/local/cover.jpg" />
+      <podcast:chapters url="http://192.168.200.41:8787/p/local/chapters/2026-08-14.json" type="application/json+chapters" />
+    </item>
+  </channel>
+</rss>
