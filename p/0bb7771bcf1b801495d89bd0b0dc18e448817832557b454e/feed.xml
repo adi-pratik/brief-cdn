@@ -19,18 +19,22 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>14 Aug — ForecastEx made the coupon optional</title>
-      <description># INTEL 2026-08-14 — private, Head of Products
-Window: 2026-08-13T23:00:00+04:00 → 2026-08-14T23:00:00+04:00    Run: nightly
-Classification: PRIVATE — Head of Products
+      <title>PredictStreet Intel — Null Issue</title>
+      <description>## Window
+2026-08-13T12:42:12.050120+04:00 → 2026-08-14T12:42:12.050120+04:00
 
-## The one thing
-ForecastEx Rule 612 (Investment of Member Funds) is effective 14 August 2026. The Clearinghouse still remits interest on Collateral Accounts, less fees, to Members. FCM Members are no longer required to pass that …</description>
+## What I scanned (required Tier‑1 + regulatory)
+- Polymarket status and notices (venue status &amp; regulatory notices). Source: status.polymarket.com and polymarketexchange.com/notices.
+- Kalshi API / status trackers and help center.
+- CFTC rule/filings index for product‑term filings and notices.
+
+## What happened
+Nothin…</description>
       <guid isPermaLink="false">ps-intel-2026-08-14</guid>
-      <pubDate>Fri, 14 Aug 2026 08:31:30 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-14.mp3" length="5747154" type="audio/mpeg" />
-      <itunes:title>14 Aug — ForecastEx made the coupon optional</itunes:title>
-      <itunes:duration>10:27</itunes:duration>
+      <pubDate>Fri, 14 Aug 2026 08:43:29 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-14.mp3" length="905675" type="audio/mpeg" />
+      <itunes:title>PredictStreet Intel — Null Issue</itunes:title>
+      <itunes:duration>1:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-14.json" type="application/json+chapters" />
