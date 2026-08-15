@@ -19,21 +19,20 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>14 Aug — ForecastEx made the coupon optional</title>
-      <description># INTEL 2026-08-14 — private, Head of Products
-Window: 2026-08-13T23:00:00+04:00 → 2026-08-14T23:00:00+04:00    Run: nightly
-Classification: PRIVATE — Head of Products
+      <title>15 Aug — PIX/UPI one‑tap is the wedge</title>
+      <description>## The one thing
+We should out‑execute on on‑ramps: instant PIX (Brazil) and UPI (India) deposits with a 30–60s “first stake” experience, soft autolimits, and equally smooth withdrawals. UPI and PIX now carry country‑scale daily volumes; if we make money movement a non‑event, our same books feel faster and safer.
 
-## The one thing
-ForecastEx Rule 612 (Investment of Member Funds) is effective 14 August 2026. The Clearinghouse still remits interest on Collateral Accounts, less fees, to Members. FCM Members are no longer required to pass that …</description>
-      <guid isPermaLink="false">ps-intel-2026-08-14</guid>
-      <pubDate>Fri, 14 Aug 2026 19:50:08 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-14.mp3" length="5021776" type="audio/mpeg" />
-      <itunes:title>14 Aug — ForecastEx made the coupon optional</itunes:title>
-      <itunes:duration>10:09</itunes:duration>
+## What moved (concept night)
+Thin window for fresh cross‑border moves. Publishing …</description>
+      <guid isPermaLink="false">ps-intel-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 15:34:47 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-15.mp3" length="1278396" type="audio/mpeg" />
+      <itunes:title>15 Aug — PIX/UPI one‑tap is the wedge</itunes:title>
+      <itunes:duration>2:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
-      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-14.json" type="application/json+chapters" />
+      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-15.json" type="application/json+chapters" />
     </item>
   </channel>
 </rss>
