@@ -19,17 +19,19 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>15 Aug — PIX/UPI one‑tap is the wedge</title>
+      <title>15 Aug — The 15‑minute book we should ship</title>
       <description>## The one thing
-We should out‑execute on on‑ramps: instant PIX (Brazil) and UPI (India) deposits with a 30–60s “first stake” experience, soft autolimits, and equally smooth withdrawals. UPI and PIX now carry country‑scale daily volumes; if we make money movement a non‑event, our same books feel faster and safer.
 
-## What moved (concept night)
-Thin window for fresh cross‑border moves. Publishing …</description>
+## What moved (only real news)
+No item cleared our editorial bar in this 24h window after cite‑check; running a 2–3 minute concept instead.
+
+## Deep cut — Rolling short‑horizon markets that fit our stack
+- Instrument: time‑boxed books (e.g., Tennis next 15 minutes: “Any break? YES/NO”; Cricket next over: “≥8 runs?”, “Wicket?”, “Boundary count ≥2?”). Event‑linked, not props. Each…</description>
       <guid isPermaLink="false">ps-intel-2026-08-15</guid>
-      <pubDate>Sat, 15 Aug 2026 15:34:47 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-15.mp3" length="1278396" type="audio/mpeg" />
-      <itunes:title>15 Aug — PIX/UPI one‑tap is the wedge</itunes:title>
-      <itunes:duration>2:32</itunes:duration>
+      <pubDate>Sat, 15 Aug 2026 19:26:20 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-15.mp3" length="1529477" type="audio/mpeg" />
+      <itunes:title>15 Aug — The 15‑minute book we should ship</itunes:title>
+      <itunes:duration>3:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-15.json" type="application/json+chapters" />
