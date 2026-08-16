@@ -19,22 +19,17 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>15 Aug — The 15‑minute book we should ship</title>
+      <title>16 Aug — SX Bet kills token; LaLiga kicks off</title>
       <description>## The one thing
-
-## What moved (only real news)
-No item cleared our editorial bar in this 24h window after cite‑check; running a 2–3 minute concept instead.
-
-## Deep cut — Rolling short‑horizon markets that fit our stack
-- Instrument: time‑boxed books (e.g., Tennis next 15 minutes: “Any break? YES/NO”; Cricket next over: “≥8 runs?”, “Wicket?”, “Boundary count ≥2?”). Event‑linked, not props. Each…</description>
-      <guid isPermaLink="false">ps-intel-2026-08-15</guid>
-      <pubDate>Sat, 15 Aug 2026 19:26:20 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-15.mp3" length="1529477" type="audio/mpeg" />
-      <itunes:title>15 Aug — The 15‑minute book we should ship</itunes:title>
-      <itunes:duration>3:01</itunes:duration>
+SX Bet’s SX token sunset window closed on August 15; eligible holders who didn’t accept the SX-token‑sunset/USDC‑credit terms by the cut‑off lose their credit rights. The venue says it’s migrating to a gasless architecture and moving users to USDC bet credits. That’s a real on‑chain product shift away from a native gas token toward simpler, fiat‑like UX. ([blog.sx.bet](https://bl…</description>
+      <guid isPermaLink="false">ps-intel-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 19:26:41 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-16.mp3" length="1521122" type="audio/mpeg" />
+      <itunes:title>16 Aug — SX Bet kills token; LaLiga kicks off</itunes:title>
+      <itunes:duration>3:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
-      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-15.json" type="application/json+chapters" />
+      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-16.json" type="application/json+chapters" />
     </item>
   </channel>
 </rss>

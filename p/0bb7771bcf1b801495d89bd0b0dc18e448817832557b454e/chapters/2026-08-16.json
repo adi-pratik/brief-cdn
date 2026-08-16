@@ -1,0 +1,25 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "The one thing"
+    },
+    {
+      "startTime": 33,
+      "title": "What moved"
+    },
+    {
+      "startTime": 90,
+      "title": "Competitive"
+    },
+    {
+      "startTime": 131,
+      "title": "Product & tech"
+    },
+    {
+      "startTime": 156,
+      "title": "What I would do"
+    }
+  ]
+}
