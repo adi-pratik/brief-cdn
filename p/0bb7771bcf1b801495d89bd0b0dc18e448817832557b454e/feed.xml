@@ -19,19 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>18 Aug — The spread is a personality test</title>
-      <description>Title: 18 Aug — The spread is a personality test
+      <title>18 Aug — Basis is a feature, not a bug</title>
+      <description>## Tonight’s concept (2–3 min)
 
-What changed for us
-- Nothing material in-window. So we use the slot to sharpen the playbook that decides whether our book is tight and deep or wide and empty.
+What moved for us is the mechanism. Thin tape = we use the time to sharpen edge: how to systematically convert cross‑venue basis (our book vs offshore AMMs vs other CLOBs) into predictable market‑maker earnings — without on‑chain rebates and while respecting our fixed 240 bps quadratic taker fee and maker‑0 policy.
 
-Concept — How makers win on PredictStreet (and why takers follow)
-- Our constraints: taker fee is a fixed 240 bps, quadratic in P*(1–P); maker on-chain is always 0; any MM economics are of…</description>
+- Constraint check
+  - PredictStreet fee rails: t…</description>
       <guid isPermaLink="false">ps-intel-2026-08-18</guid>
-      <pubDate>Tue, 18 Aug 2026 09:31:45 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="2271346" type="audio/mpeg" />
-      <itunes:title>18 Aug — The spread is a personality test</itunes:title>
-      <itunes:duration>4:29</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 10:25:35 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="2337862" type="audio/mpeg" />
+      <itunes:title>18 Aug — Basis is a feature, not a bug</itunes:title>
+      <itunes:duration>4:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-18.json" type="application/json+chapters" />
