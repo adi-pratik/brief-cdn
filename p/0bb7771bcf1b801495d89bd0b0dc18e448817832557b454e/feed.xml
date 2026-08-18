@@ -19,15 +19,23 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>18 Aug — Gibraltar’s prediction‑market door opens fast</title>
-      <description>**Gibraltar**
-- Gibraltar published its **Prediction Market Regulations 2026** (Legal Notice 176 of 2026) in the Gazette on **13 July 2026**; they came into force the same day, establishing the world’s first rules crafted specifically for prediction markets rather than wedged into betting laws ([company.gi](https://company.gi/blog/gibraltar-prediction-market-regulations-2026?utm_source=openai)).
-…</description>
+      <title>18 Aug — Maker rebates, minus the wash</title>
+      <description>Private — Head of Products
+
+DATE: Tue, 18 Aug 2026
+WINDOW: 2026‑08‑17T10:27:54+04:00 → 2026‑08‑18T22:27:54+04:00
+
+Tonight’s probes (UK/Gibraltar, Tanzania/East Africa, UAE/MENA, Brazil/LATAM, India/SEA, competitors) produced no material, cite‑able moves inside the window. Per charter, we publish a concept issue instead of padding.
+
+One thing
+
+Why this matters for PredictStreet
+- Our constraint: 2…</description>
       <guid isPermaLink="false">ps-intel-2026-08-18</guid>
-      <pubDate>Tue, 18 Aug 2026 17:48:47 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="2043504" type="audio/mpeg" />
-      <itunes:title>18 Aug — Gibraltar’s prediction‑market door opens fast</itunes:title>
-      <itunes:duration>3:56</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 18:33:59 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="1996457" type="audio/mpeg" />
+      <itunes:title>18 Aug — Maker rebates, minus the wash</itunes:title>
+      <itunes:duration>3:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-18.json" type="application/json+chapters" />
