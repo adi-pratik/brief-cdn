@@ -19,17 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>18 Aug — Make 240 bps feel like 80 bps</title>
-      <description>## The one thing
-If the vig feels heavy, retail won’t lean into the book; if the tape feels fair, they spray the ladder. We can’t change our on‑chain taker fee (240 bps, quadratic), so we have to change how it feels: depth at the touch, predictable fills, and a reason for makers to warehouse inventory.
+      <title>18 Aug — The spread is a personality test</title>
+      <description>PredictStreet Intel — Null issue (Aug 18)
 
-## Mechanism — make 240 bps feel like 80 bps
-- Maker ladders at the touch: pre‑seed 1–3 ticks …</description>
+No material regulatory or competitor actions cleared cite‑check in the window. Rather than print empty desks, here’s a short strategy note to ship against this week.
+
+Strategy: make the spread work for us
+- The spread is a personality test: impatient flow pays the vig, patient flow earns it. In a CLOB, that’s taker vs maker. We price to this every day (t…</description>
       <guid isPermaLink="false">ps-intel-2026-08-18</guid>
-      <pubDate>Tue, 18 Aug 2026 12:46:23 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="3931825" type="audio/mpeg" />
-      <itunes:title>18 Aug — Make 240 bps feel like 80 bps</itunes:title>
-      <itunes:duration>7:41</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 14:30:39 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="2111154" type="audio/mpeg" />
+      <itunes:title>18 Aug — The spread is a personality test</itunes:title>
+      <itunes:duration>4:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-18.json" type="application/json+chapters" />
