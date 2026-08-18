@@ -19,21 +19,17 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>18 Aug — The basis is talking: fees write the spread</title>
-      <description>Private — Head of Products
-
-What changed for us: No material regulatory or venue moves printed in the window. We’re publishing a concept issue so the car app isn’t silent. The most useful thing we can do tonight is sharpen how we think about cross‑venue basis and spreads.
-
-The mechanism (why prices diverge across venues even on the same question)
-- Quadratic taker fees: Many CLOBs (including ours…</description>
-      <guid isPermaLink="false">ps-intel-2026-08-18</guid>
-      <pubDate>Tue, 18 Aug 2026 19:34:49 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="2060653" type="audio/mpeg" />
-      <itunes:title>18 Aug — The basis is talking: fees write the spread</itunes:title>
-      <itunes:duration>3:59</itunes:duration>
+      <title>19 Aug — Gibraltar carves its own prediction‑market lane</title>
+      <description>## Gibraltar prediction‑markets regulation live
+Gibraltar published and activated the world’s first standalone Prediction Market Regulations (LN 176 of 2026) on 13 July 2026. They separate prediction‑market authorisation from gambling licences, define permissible contract types, liquidity rules, exposure and cooling‑off controls, and allow stablecoins in markets. Authorisations are expected withi…</description>
+      <guid isPermaLink="false">ps-intel-2026-08-19</guid>
+      <pubDate>Tue, 18 Aug 2026 20:30:00 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2860953" type="audio/mpeg" />
+      <itunes:title>19 Aug — Gibraltar carves its own prediction‑market lane</itunes:title>
+      <itunes:duration>5:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
-      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-18.json" type="application/json+chapters" />
+      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
     </item>
   </channel>
 </rss>

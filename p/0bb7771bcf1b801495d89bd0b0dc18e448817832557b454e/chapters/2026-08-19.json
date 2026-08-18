@@ -1,0 +1,29 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Chapter\u202f1 \u00b7 What moved"
+    },
+    {
+      "startTime": 73,
+      "title": "Chapter\u202f2 \u00b7 Deep cut (teaching moment)"
+    },
+    {
+      "startTime": 171,
+      "title": "Chapter\u202f3 \u00b7 Competitive signal"
+    },
+    {
+      "startTime": 219,
+      "title": "Chapter\u202f4 \u00b7 Product & rails"
+    },
+    {
+      "startTime": 257,
+      "title": "Chapter\u202f5 \u00b7 What I would do"
+    },
+    {
+      "startTime": 296,
+      "title": "Chapter\u202f6 \u00b7 Closing insight"
+    }
+  ]
+}
