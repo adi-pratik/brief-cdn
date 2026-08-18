@@ -19,14 +19,21 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — Gibraltar carves its own prediction‑market lane</title>
-      <description>## Gibraltar prediction‑markets regulation live
-Gibraltar published and activated the world’s first standalone Prediction Market Regulations (LN 176 of 2026) on 13 July 2026. They separate prediction‑market authorisation from gambling licences, define permissible contract types, liquidity rules, exposure and cooling‑off controls, and allow stablecoins in markets. Authorisations are expected withi…</description>
+      <title>19 Aug — Build the short‑horizon engine</title>
+      <description>Private nightly — concept issue (no filler geos). 2–3 minutes.
+
+Title: Build the short‑horizon engine
+
+Why now
+- World sport and crypto calendars throw price-moving micro-catalysts every hour. We can own mindshare with rolling short-horizon books (5m/30m/1h/24h) if we solve maker risk and rail frictions.
+
+Mechanism — the book we can win
+- Instrument: binary up/down (crypto), micro-sports props (n…</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Tue, 18 Aug 2026 20:30:00 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2860953" type="audio/mpeg" />
-      <itunes:title>19 Aug — Gibraltar carves its own prediction‑market lane</itunes:title>
-      <itunes:duration>5:35</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 21:22:58 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="3100751" type="audio/mpeg" />
+      <itunes:title>19 Aug — Build the short‑horizon engine</itunes:title>
+      <itunes:duration>6:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />

@@ -3,27 +3,31 @@
   "chapters": [
     {
       "startTime": 0,
-      "title": "Chapter\u202f1 \u00b7 What moved"
+      "title": "The one thing"
     },
     {
-      "startTime": 73,
-      "title": "Chapter\u202f2 \u00b7 Deep cut (teaching moment)"
+      "startTime": 19,
+      "title": "What moved (framed as why we\u2019re doing this)"
     },
     {
-      "startTime": 171,
-      "title": "Chapter\u202f3 \u00b7 Competitive signal"
+      "startTime": 39,
+      "title": "Deep cut \u2014 how a short\u2011horizon CLOB doesn\u2019t get eaten"
     },
     {
-      "startTime": 219,
-      "title": "Chapter\u202f4 \u00b7 Product & rails"
+      "startTime": 168,
+      "title": "Competitive \u2014 why this wedge"
     },
     {
-      "startTime": 257,
-      "title": "Chapter\u202f5 \u00b7 What I would do"
+      "startTime": 212,
+      "title": "Product & rails \u2014 make it fast, make it obvious"
     },
     {
-      "startTime": 296,
-      "title": "Chapter\u202f6 \u00b7 Closing insight"
+      "startTime": 264,
+      "title": "The teaching corner \u2014 vocabulary in one breath"
+    },
+    {
+      "startTime": 313,
+      "title": "What I would do by end of September"
     }
   ]
 }
