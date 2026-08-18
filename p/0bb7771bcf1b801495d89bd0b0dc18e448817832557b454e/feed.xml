@@ -19,21 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — Build the short‑horizon engine</title>
-      <description>Private nightly — concept issue (no filler geos). 2–3 minutes.
+      <title>19 Aug — The vig is a personality test</title>
+      <description>Tonight’s scan produced no material, citeable moves inside the 2026-08-17T14:15 → 2026-08-19T02:15 (+04:00) window. Per charter, we’re publishing a concept issue instead of padding with quiet desks.
 
-Title: Build the short‑horizon engine
+Concept — The vig is a personality test: how fee design shows up in your book
 
-Why now
-- World sport and crypto calendars throw price-moving micro-catalysts every hour. We can own mindshare with rolling short-horizon books (5m/30m/1h/24h) if we solve maker risk and rail frictions.
-
-Mechanism — the book we can win
-- Instrument: binary up/down (crypto), micro-sports props (n…</description>
+- What traders feel
+  - Takers feel the fee in the first fill and in every partial; makers feel it in adverse selection.…</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Tue, 18 Aug 2026 21:22:58 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="3100751" type="audio/mpeg" />
-      <itunes:title>19 Aug — Build the short‑horizon engine</itunes:title>
-      <itunes:duration>6:03</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 22:25:10 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2979804" type="audio/mpeg" />
+      <itunes:title>19 Aug — The vig is a personality test</itunes:title>
+      <itunes:duration>5:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
