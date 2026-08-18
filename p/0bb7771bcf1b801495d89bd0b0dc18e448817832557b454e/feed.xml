@@ -4,35 +4,39 @@
     <title>PredictStreet Intel</title>
     <link>https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/feed.xml</link>
     <language>en-us</language>
-    <description>Private overnight briefing for the Head of Products. Event contracts, venues, regulation, and product/tech — only what moved, and what it means for PredictStreet. Not for distribution.</description>
+    <description>Daily private show for the Head of Products. Fifteen minutes on prediction markets, exchanges, trading microstructure, regulation, and what it means for a web3 CLOB. New episode every day. Not public.</description>
     <generator>predictstreet-intel-harness</generator>
     <atom:link href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/feed.xml" rel="self" type="application/rss+xml" />
-    <itunes:author>Head of Products — private</itunes:author>
-    <itunes:summary>Private overnight briefing for the Head of Products. Event contracts, venues, regulation, and product/tech — only what moved, and what it means for PredictStreet. Not for distribution.</itunes:summary>
+    <itunes:author>PredictStreet Intel</itunes:author>
+    <itunes:summary>Daily private show for the Head of Products. Fifteen minutes on prediction markets, exchanges, trading microstructure, regulation, and what it means for a web3 CLOB. New episode every day. Not public.</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
     <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
     <itunes:owner>
-      <itunes:name>Head of Products — private</itunes:name>
+      <itunes:name>PredictStreet Intel</itunes:name>
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>17 Aug — Make our short‑horizon markets unbreakable</title>
-      <description>## The one thing
-If the window is thin, we use it: let’s harden our short‑horizon markets. Move our crypto 5–60m and in‑play micro‑markets to resolve on a short time‑weighted average price (TWAP) instead of a single snapshot, and add simple circuit rails (brief halts + quote/size guards). This removes the single‑tick exploit path and makes maker inventory viable.
+      <title>18 Aug — The parlay trap on a CLOB</title>
+      <description>Private — Head of Products
 
-## What moved (only real news)
-N…</description>
-      <guid isPermaLink="false">ps-intel-2026-08-17</guid>
-      <pubDate>Mon, 17 Aug 2026 19:33:22 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-17.mp3" length="1358771" type="audio/mpeg" />
-      <itunes:title>17 Aug — Make our short‑horizon markets unbreakable</itunes:title>
-      <itunes:duration>2:41</itunes:duration>
+Tonight’s window (Aug 16 23:31 → Aug 18 11:31 +04) had no material regulatory or competitor actions across our P0 probes. One minor signal: Polymarket flagged “Markets and Position data — Degraded performance” today; not material for us.
+
+So we spend the slot on a differentiator we can ship: combo books (parlays) on a CLOB.
+
+What to build next
+
+- Problem to solve: parl…</description>
+      <guid isPermaLink="false">ps-intel-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 07:41:05 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="3047840" type="audio/mpeg" />
+      <itunes:title>18 Aug — The parlay trap on a CLOB</itunes:title>
+      <itunes:duration>6:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
-      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-17.json" type="application/json+chapters" />
+      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-18.json" type="application/json+chapters" />
     </item>
   </channel>
 </rss>
