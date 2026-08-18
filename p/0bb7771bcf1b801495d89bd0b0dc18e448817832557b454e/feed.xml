@@ -19,21 +19,22 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>18 Aug — The parlay trap on a CLOB</title>
-      <description>Private — Head of Products
+      <title>18 Aug — The fee game: how we buy the spread</title>
+      <description>Private — Head of Products only
 
-Tonight’s window (Aug 16 23:31 → Aug 18 11:31 +04) had no material regulatory or competitor actions across our P0 probes. One minor signal: Polymarket flagged “Markets and Position data — Degraded performance” today; not material for us.
+Date: Tue, 18 Aug 2026
+Window scanned: 2026‑08‑17 00:27 (+04:00) → 2026‑08‑18 12:27 (+04:00)
 
-So we spend the slot on a differentiator we can ship: combo books (parlays) on a CLOB.
+Tonight’s tape was empty on material moves across P0/P1 geos and Tier‑1/2 competitors. Rather than pad, here’s a 2–3 minute differentiator you can act on.
 
-What to build next
+— The mechanism: pay for the spread, not the click
 
-- Problem to solve: parl…</description>
+- Constraint: our taker fee is fixed at 240 bps, quadratic in P·…</description>
       <guid isPermaLink="false">ps-intel-2026-08-18</guid>
-      <pubDate>Tue, 18 Aug 2026 07:41:05 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="3047840" type="audio/mpeg" />
-      <itunes:title>18 Aug — The parlay trap on a CLOB</itunes:title>
-      <itunes:duration>6:00</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 08:33:01 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-18.mp3" length="3057224" type="audio/mpeg" />
+      <itunes:title>18 Aug — The fee game: how we buy the spread</itunes:title>
+      <itunes:duration>5:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-18.json" type="application/json+chapters" />
