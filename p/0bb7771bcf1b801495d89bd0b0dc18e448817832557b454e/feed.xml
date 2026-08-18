@@ -19,18 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — The vig is a personality test</title>
-      <description>Tonight’s scan produced no material, citeable moves inside the 2026-08-17T14:15 → 2026-08-19T02:15 (+04:00) window. Per charter, we’re publishing a concept issue instead of padding with quiet desks.
+      <title>19 Aug — TWAPs, snapshots, and where the vig hides</title>
+      <description>PRIVATE — Head of Products
 
-Concept — The vig is a personality test: how fee design shows up in your book
+19 Aug — Concept issue (null night)
 
-- What traders feel
-  - Takers feel the fee in the first fill and in every partial; makers feel it in adverse selection.…</description>
+What moved (concept, not news)
+- The most important microstructure lever in short‑horizon markets is the resolution source. A single‑tick snapshot ("what was BTC/USD at 10:05:00") concentrates edge into milliseconds; a TWAP window (30–60s) spreads it across time, shifting P&amp;L from latency/arb bots toward inventory that can carry. Th…</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Tue, 18 Aug 2026 22:25:10 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2979804" type="audio/mpeg" />
-      <itunes:title>19 Aug — The vig is a personality test</itunes:title>
-      <itunes:duration>5:47</itunes:duration>
+      <pubDate>Tue, 18 Aug 2026 23:19:58 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2217958" type="audio/mpeg" />
+      <itunes:title>19 Aug — TWAPs, snapshots, and where the vig hides</itunes:title>
+      <itunes:duration>4:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
