@@ -19,20 +19,19 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>Make the vig work for us</title>
+      <title>19 Aug — The vig is a personality test</title>
       <description>Private — Head of Products
 
-Null issue (window: 18 Aug 14:16 → 20 Aug 02:16 +04:00). No material, cite‑quality moves across P0 desks in‑window after scan. So we spend the commute on a mechanism we can ship.
+Null issue: nothing material cleared cite-check in the window. We’re using the slot to sharpen a differentiator we control today: maker-side economics and basis capture across venues.
 
-Concept — Buying tight spreads without changing fees
+What we’re standardising now (concept, not a claim of news)
 
-- Our constraint: taker fee fixed at 240 bps, quadratic in P·(1−P); maker on‑chain is 0; MM economics must live off‑chain.
-- The market r…</description>
+- Our constraint: taker 240 bps quadratic in P·(1−P) for the market’s life; maker 0 on‑chain, rebates off‑chain. That’s a des…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Wed, 19 Aug 2026 22:22:01 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2446903" type="audio/mpeg" />
-      <itunes:title>Make the vig work for us</itunes:title>
-      <itunes:duration>4:43</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 23:20:46 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3131100" type="audio/mpeg" />
+      <itunes:title>19 Aug — The vig is a personality test</itunes:title>
+      <itunes:duration>6:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
