@@ -19,18 +19,21 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — PIX-first rails, tighter spreads</title>
+      <title>19 Aug — Beating AMMs without touching the fee switch</title>
       <description>Private — Head of Products
 
-Tonight was light on fresh, cite-able moves in our window. Shipping a concept issue instead — one mechanism that would move our spread and conversion in LATAM and India without changing our on-chain fee constraint.
+19 Aug — Mechanism brief: how we buy spread without a fee switch
 
-What we’re proposing
-- Rails: Add first-party PIX-on/BRL-off for Brazil, and UPI-in/INR-off for India via compliant on-ramps. Circle launched USDC with loc…</description>
+Why you’re reading this
+- The window (Aug 17 21:24 +04 → Aug 19 09:24 +04) produced no material, cite‑worthy moves in our P0 geos or Tier‑1 competitors. Rather than print quiet lines, here’s a 2–3 minute differentiator we can ship.
+
+The constraint
+- PredictStreet is a Gibraltar betting intermediary (GLA …</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 04:05:34 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2256259" type="audio/mpeg" />
-      <itunes:title>19 Aug — PIX-first rails, tighter spreads</itunes:title>
-      <itunes:duration>4:21</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 05:36:25 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2352090" type="audio/mpeg" />
+      <itunes:title>19 Aug — Beating AMMs without touching the fee switch</itunes:title>
+      <itunes:duration>4:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
