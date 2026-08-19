@@ -19,14 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — UKGC swings; EWC schedule locks in</title>
-      <description>What changed for us
-- UK: UKGC fined Holland Park Leisure Ltd £150,000 and ordered a third‑party audit for failing to join the mandatory multi‑operator self‑exclusion scheme. The licence had been suspended back in Oct 2025; the fine lands today (Aug 18). Why it matters: self‑exclusion and scheme‑integration failures are drawing swift penalties; our UK/GB feeds, venue routing, and retail‑adjacent …</description>
+      <title>14 Aug — Tennis Streams Meet Trading Gravity</title>
+      <description>**14 Aug — Polymarket’s ATP Stream Deal, VARA technical weight, Tanzania iGaming surge**
+
+**One Thing**  Polymarket inked a launch with ATP Tour for real‑time sports prediction feeds alongside rulebook upgrades from VARA that tighten regulatory clarity on virtual asset exchanges.
+
+**What Moved**
+- **UAE / VARA**: On **31 March 2026**, VARA rolled out version 2.1 of its Exchange Services Rulebook—…</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 06:42:27 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="5394837" type="audio/mpeg" />
-      <itunes:title>19 Aug — UKGC swings; EWC schedule locks in</itunes:title>
-      <itunes:duration>10:40</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 10:34:53 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="177600" type="audio/mpeg" />
+      <itunes:title>14 Aug — Tennis Streams Meet Trading Gravity</itunes:title>
+      <itunes:duration>0:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
