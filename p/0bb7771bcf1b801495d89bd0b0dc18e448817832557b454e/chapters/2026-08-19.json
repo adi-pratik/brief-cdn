@@ -3,7 +3,27 @@
   "chapters": [
     {
       "startTime": 0,
-      "title": "The One Thing (0:30)"
+      "title": "The one thing"
+    },
+    {
+      "startTime": 18,
+      "title": "What moved"
+    },
+    {
+      "startTime": 31,
+      "title": "Deep cut \u2014 how we actually buy depth"
+    },
+    {
+      "startTime": 165,
+      "title": "Competitive \u2014 reading the neighbors without chasing them"
+    },
+    {
+      "startTime": 199,
+      "title": "Product & rails \u2014 maker SLA and post-only by default"
+    },
+    {
+      "startTime": 236,
+      "title": "What I would do"
     }
   ]
 }

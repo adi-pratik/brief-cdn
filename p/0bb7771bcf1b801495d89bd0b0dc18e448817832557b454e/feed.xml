@@ -19,18 +19,21 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>14 Aug — Tennis Streams Meet Trading Gravity</title>
-      <description>**14 Aug — Polymarket’s ATP Stream Deal, VARA technical weight, Tanzania iGaming surge**
+      <title>19 Aug — Maker math beats megaphones</title>
+      <description>Private — Head of Products
 
-**One Thing**  Polymarket inked a launch with ATP Tour for real‑time sports prediction feeds alongside rulebook upgrades from VARA that tighten regulatory clarity on virtual asset exchanges.
+Date: 19 Aug 2026
+Window: Last 24h — thin for actionable news after cite-check. Publishing a concept issue per charter.
 
-**What Moved**
-- **UAE / VARA**: On **31 March 2026**, VARA rolled out version 2.1 of its Exchange Services Rulebook—…</description>
+Title: Maker math beats megaphones
+
+The idea
+- In a CLOB, depth is a function of (a) maker cost of capital, (b) adverse selection, and (c) how often quotes get picked off before they can cancel. Our constraint: taker 240 bps quadratic in P·(1–P), mak…</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 10:34:53 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="177600" type="audio/mpeg" />
-      <itunes:title>14 Aug — Tennis Streams Meet Trading Gravity</itunes:title>
-      <itunes:duration>0:13</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 11:30:16 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2557800" type="audio/mpeg" />
+      <itunes:title>19 Aug — Maker math beats megaphones</itunes:title>
+      <itunes:duration>4:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
