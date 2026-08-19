@@ -19,21 +19,14 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — Beating AMMs without touching the fee switch</title>
-      <description>Private — Head of Products
-
-19 Aug — Mechanism brief: how we buy spread without a fee switch
-
-Why you’re reading this
-- The window (Aug 17 21:24 +04 → Aug 19 09:24 +04) produced no material, cite‑worthy moves in our P0 geos or Tier‑1 competitors. Rather than print quiet lines, here’s a 2–3 minute differentiator we can ship.
-
-The constraint
-- PredictStreet is a Gibraltar betting intermediary (GLA …</description>
+      <title>19 Aug — UKGC swings; EWC schedule locks in</title>
+      <description>What changed for us
+- UK: UKGC fined Holland Park Leisure Ltd £150,000 and ordered a third‑party audit for failing to join the mandatory multi‑operator self‑exclusion scheme. The licence had been suspended back in Oct 2025; the fine lands today (Aug 18). Why it matters: self‑exclusion and scheme‑integration failures are drawing swift penalties; our UK/GB feeds, venue routing, and retail‑adjacent …</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 05:36:25 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2352090" type="audio/mpeg" />
-      <itunes:title>19 Aug — Beating AMMs without touching the fee switch</itunes:title>
-      <itunes:duration>4:36</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 06:42:27 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="5394837" type="audio/mpeg" />
+      <itunes:title>19 Aug — UKGC swings; EWC schedule locks in</itunes:title>
+      <itunes:duration>10:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
