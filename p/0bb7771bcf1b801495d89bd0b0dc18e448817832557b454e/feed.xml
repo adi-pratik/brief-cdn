@@ -19,19 +19,16 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — The vig is a personality test</title>
-      <description>PredictStreet Intel — null issue
+      <title>19 Aug — Pyth flips the oracle switch</title>
+      <description>What changed for us
 
-Why a null: No material, citeable moves in our P0 geographies inside the caller’s window. Per Charter, we publish a short concept instead of padding the map.
-
-Tonight’s concept — The vig is a personality test
-
-- The setup: We run a CLOB with a quadratic taker fee and zero on‑chain maker fee. Off‑chain maker economics are the only knob we’re allowed to turn. Polym…</description>
+- Pyth Core upgraded on August 18 (UTC). Hermes endpoints now require API keys; the Pyth DAO performed contract upgrades (Sui needs a manual swap). Expect brief cutovers and ensure our monitors catch stale or unauthenticated responses. Primary docs flag this as a mandatory change for all Core users. [Primary]
+  - Why it matters to PS (inference): Any crypto 5m/30m/1h books th…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Wed, 19 Aug 2026 20:25:52 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="1776800" type="audio/mpeg" />
-      <itunes:title>19 Aug — The vig is a personality test</itunes:title>
-      <itunes:duration>3:27</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 21:35:59 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3410754" type="audio/mpeg" />
+      <itunes:title>19 Aug — Pyth flips the oracle switch</itunes:title>
+      <itunes:duration>6:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
