@@ -3,23 +3,27 @@
   "chapters": [
     {
       "startTime": 0,
-      "title": "What moved"
+      "title": "What moved (and why we\u2019re not padding it)"
     },
     {
-      "startTime": 17,
-      "title": "Deep cut \u2014 How the basis becomes PnL (5 rules)"
+      "startTime": 20,
+      "title": "Deep cut \u2014 spread, maker/taker, and inventory, in one breath"
     },
     {
-      "startTime": 203,
-      "title": "Competitive lens \u2014 same question, three wrappers"
+      "startTime": 136,
+      "title": "Competitive math we can control without changing law"
     },
     {
-      "startTime": 237,
-      "title": "Product & rails \u2014 where to put the shovel first"
+      "startTime": 258,
+      "title": "Product & rails \u2014 small levers, big wins"
     },
     {
-      "startTime": 290,
-      "title": "What I would do"
+      "startTime": 295,
+      "title": "What I would do tomorrow"
+    },
+    {
+      "startTime": 334,
+      "title": "Why this wins us flow"
     }
   ]
 }

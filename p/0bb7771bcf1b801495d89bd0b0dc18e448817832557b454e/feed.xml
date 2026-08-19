@@ -19,19 +19,17 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — The basis we can bank</title>
-      <description>Null issue — concept night
+      <title>19 Aug — The spread is a personality test</title>
+      <description>Null issue — concept night (2–3 minutes)
 
-What changed for us
-- No material primary moves in the window across P0 desks (Gibraltar/UK, UAE, East Africa, Brazil/LATAM) or Tier‑1 competitors that clear the citing bar. We’re skipping the map rather than padding it. 
-
-Strategy — the basis we can bank
-- Cross‑venue basis is persistent mispricing between two markets asking the same question but resolving on differen…</description>
+- Why the spread is a personality test: It reflects who we want crossing the book, at what pace, and how much adverse selection we can tolerate.
+- Our guardrails: 240 bps quadratic taker fee; maker 0 on-chain; any MM economics live off-chain. That means we can’t buy liquidity with rebates on-chain; we have to design for it.
+- Three knobs we control tomorr…</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 17:38:24 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2852454" type="audio/mpeg" />
-      <itunes:title>19 Aug — The basis we can bank</itunes:title>
-      <itunes:duration>5:39</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 19:26:52 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="3103555" type="audio/mpeg" />
+      <itunes:title>19 Aug — The spread is a personality test</itunes:title>
+      <itunes:duration>6:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
