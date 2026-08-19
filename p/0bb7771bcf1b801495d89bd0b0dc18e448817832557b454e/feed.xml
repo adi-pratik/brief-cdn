@@ -19,16 +19,21 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — Gibraltar gets personal</title>
-      <description>### 19 Aug — Gibraltar codifies prediction‑market licence regime
+      <title>19 Aug — When nothing moves, we do</title>
+      <description>PRIVATE — Head of Products
 
-**What moved**
-- *Gibraltar introduces dedicated prediction‑market regulation.* On 13 July 2026, the jurisdiction published its Prediction Market Regulations 2026 (Legal Notice 176 of 2026), creating the world’s first standalone rulebook for prediction markets. The framework treats prediction‑market activity as distinct from bettin…</description>
+19 Aug — Null issue (concept): How we win when nothing moves
+
+What changed for us
+- No material moves in P0 geos or core competitors inside the 24h window we scanned. Use the quiet to sharpen product: inventory, basis, and funding rails.
+
+Strategy — three concrete pieces
+- Maker inventory that can bite back: Stand up a Maker Portal (internal/private beta) that shows ea…</description>
       <guid isPermaLink="false">ps-intel-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 14:52:50 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2808446" type="audio/mpeg" />
-      <itunes:title>19 Aug — Gibraltar gets personal</itunes:title>
-      <itunes:duration>5:32</itunes:duration>
+      <pubDate>Wed, 19 Aug 2026 15:48:35 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-19.mp3" length="2361226" type="audio/mpeg" />
+      <itunes:title>19 Aug — When nothing moves, we do</itunes:title>
+      <itunes:duration>4:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-19.json" type="application/json+chapters" />
