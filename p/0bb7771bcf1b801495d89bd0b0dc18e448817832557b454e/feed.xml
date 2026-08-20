@@ -19,17 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>20 Aug — The spread is a personality test</title>
-      <description>Private Intel — concept night (no material movements cleared in-window).
+      <title>20 Aug — Make the spread work for us</title>
+      <description>Private intel — concept issue
 
-What we’re teaching: Running short-horizon, in‑play markets on a CLOB
-- Instrument: 5m/30m/1h score/possession/shot-on-target ladders differ from result markets. Inventories decay fast; adverse selection hides in the next 15 seconds, not next week.
-- Fee math: Our taker fee is 240 bps quadratic in P*(1−P). Maker is 0 on‑cha…</description>
+Tonight’s playable edge isn’t a headline, it’s a mechanism we control: how our CLOB should manufacture spread, deepen depth, and clip vig without scaring takers. Three parts for product and MM:
+
+1) Turn the CLOB into a factory for good quotes
+- Define the spread like a budget: wide enough to pay for adverse selection, tight enough to trade. Our 240 bps quadratic tak…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 03:51:14 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2975566" type="audio/mpeg" />
-      <itunes:title>20 Aug — The spread is a personality test</itunes:title>
-      <itunes:duration>5:57</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 04:35:06 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3134891" type="audio/mpeg" />
+      <itunes:title>20 Aug — Make the spread work for us</itunes:title>
+      <itunes:duration>6:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
