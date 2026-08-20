@@ -3,23 +3,27 @@
   "chapters": [
     {
       "startTime": 0,
+      "title": "The one thing"
+    },
+    {
+      "startTime": 29,
       "title": "What moved"
     },
     {
-      "startTime": 21,
-      "title": "Deep cut \u2014 Paying for the book you want when you can\u2019t cut the vig"
+      "startTime": 81,
+      "title": "Deep cut \u2014 Fees, spread, and why our takers keep paying for impatience"
     },
     {
-      "startTime": 325,
-      "title": "Competitive \u2014 read their mechanics, borrow their best"
+      "startTime": 303,
+      "title": "Competitive \u2014 where our rivals nudge the micro\u2011structure"
     },
     {
-      "startTime": 391,
-      "title": "Product & rails \u2014 two sprints that move the needle"
+      "startTime": 405,
+      "title": "Product & rails \u2014 what we\u2019d ship now"
     },
     {
-      "startTime": 438,
-      "title": "What I would do"
+      "startTime": 537,
+      "title": "What I would do \u2014 the sprint plan"
     }
   ]
 }
