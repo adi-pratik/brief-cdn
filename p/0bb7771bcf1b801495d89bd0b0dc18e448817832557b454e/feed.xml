@@ -19,19 +19,20 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>20 Aug — Building a 5‑minute book that doesn’t eat us</title>
-      <description>PRIVATE — Head of Products
+      <title>20 Aug — How we outbid AMMs without maker rebates</title>
+      <description>Private — Head of Products
 
-Null issue (concept). Outside desks were thin this window; we’ll spend the slot on a concrete differentiator for PredictStreet: short‑horizon crypto books that don’t get farmed.
+Tonight is a concept issue (no meaningful new moves in-window). We’re using the slot to sharpen an edge we can ship.
 
-What we’re designing (and why):
-- Product: rolling 5m / 15m / 1h crypto markets (BTC, ETH) as fully collateralised event contracts, listed continuously.
-- Goal: keep spreads honest and depth s…</description>
+Title: How we outbid AMMs without maker rebates
+
+Why this matters
+- We run an off-chain CLOB with maker fee = 0 on-chain and a fixed 240 bps taker fee that scales with P·(1−P). We cannot change those on-chain. All MM economics must be off-chain. That sh…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 09:36:23 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3594115" type="audio/mpeg" />
-      <itunes:title>20 Aug — Building a 5‑minute book that doesn’t eat us</itunes:title>
-      <itunes:duration>6:57</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 11:38:29 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="1907037" type="audio/mpeg" />
+      <itunes:title>20 Aug — How we outbid AMMs without maker rebates</itunes:title>
+      <itunes:duration>3:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
