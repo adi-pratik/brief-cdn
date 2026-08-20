@@ -19,20 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>The spread is a personality test</title>
-      <description>Private — Head of Products
+      <title>20 Aug — The vig is geometry</title>
+      <description>PRIVATE — Head of Products
 
-Null issue (concept night). Our scan across P0 geos and Tier‑1 venues turned up no material actions inside the 24‑hour window. Publishing a short differentiator instead of filler.
+Tonight scans clean — no material actions in-geo inside the window. We’ll spend the slot on the mechanism that decides whether we *rent* or *own* order flow when the schedule gets loud: the vig.
 
-Title: The spread is a personality test — paying for tight books without touching the on‑chain fee
-
-What we’re solving
-- Constraint: taker fee is fixed at 240 bps × P(1−P); maker fee on‑chai…</description>
+The mechanism in one page
+- Quadratic taker fees move with probability. A common schedule is fee = C × feeRate × p × (1−p). Peak cost is at 50%, lower at the tails. Makers pay…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 12:37:23 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2278223" type="audio/mpeg" />
-      <itunes:title>The spread is a personality test</itunes:title>
-      <itunes:duration>4:20</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 13:51:40 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2463813" type="audio/mpeg" />
+      <itunes:title>20 Aug — The vig is geometry</itunes:title>
+      <itunes:duration>4:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
