@@ -19,16 +19,15 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>Korea tightens the gate; Europe tidies the tape</title>
-      <description>## What moved (window: 2026-08-19 14:19 +04:00 → 2026-08-21 02:19 +04:00)
+      <title>21 Aug — Guardrails are moving; so should our spreads</title>
+      <description>21 Aug — What actually moved
 
-- headline: South Korea tightens VASP entry and AML duties — enforcement date hits today (Aug 20)
-  what_happened: The FSC’s revised rules under the Act on Reporting and Using Specified Financial Transaction Information enter into force on August 20, 2026, raising registration bars and strengthening travel-rule and CDD obl…</description>
+- UK/Gibraltar — UKGC settles with QuinnBet (Gibraltar) Limited (£609,104) for AML and safer‑gambling failures (examples include 4,800 bets in a day not flagged; SoF gaps). Published 20 Aug. Why it matters: it’s the regulator we sit under for GBR access and a near‑neighbor to GLA‑167; messaging and controls are getting stricter on velocity, 18–24s, and source‑of‑fund…</description>
       <guid isPermaLink="false">ps-intel-2026-08-21</guid>
-      <pubDate>Thu, 20 Aug 2026 22:33:00 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="5480894" type="audio/mpeg" />
-      <itunes:title>Korea tightens the gate; Europe tidies the tape</itunes:title>
-      <itunes:duration>10:49</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 23:29:45 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="6305100" type="audio/mpeg" />
+      <itunes:title>21 Aug — Guardrails are moving; so should our spreads</itunes:title>
+      <itunes:duration>12:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />
