@@ -19,18 +19,19 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>20 Aug — The spread is a personality test</title>
-      <description>Private — Head of Products
+      <title>20 Aug — Building a 5‑minute book that doesn’t eat us</title>
+      <description>PRIVATE — Head of Products
 
-Tonight is a concept issue. The regulatory and venue scans in the last 24h didn’t clear the bar, so we’re spending the commute on how to win the book: CLOB vs AMM vs parimutuel, cross‑venue basis, and what we should ship given our 240 bps quadratic taker fee and maker 0 on‑chain.
+Null issue (concept). Outside desks were thin this window; we’ll spend the slot on a concrete differentiator for PredictStreet: short‑horizon crypto books that don’t get farmed.
 
-What matters for PredictStreet
-- We are a CLOB betting intermediary. Inventory sits with …</description>
+What we’re designing (and why):
+- Product: rolling 5m / 15m / 1h crypto markets (BTC, ETH) as fully collateralised event contracts, listed continuously.
+- Goal: keep spreads honest and depth s…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 08:33:13 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2621976" type="audio/mpeg" />
-      <itunes:title>20 Aug — The spread is a personality test</itunes:title>
-      <itunes:duration>5:03</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 09:36:23 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3594115" type="audio/mpeg" />
+      <itunes:title>20 Aug — Building a 5‑minute book that doesn’t eat us</itunes:title>
+      <itunes:duration>6:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
