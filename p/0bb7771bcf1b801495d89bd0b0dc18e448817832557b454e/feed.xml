@@ -19,18 +19,17 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>20 Aug — The vig is quadratic; use it</title>
-      <description>Private — Head of Products
+      <title>20 Aug — The spread is a personality test</title>
+      <description>Private Intel — concept night (no material movements cleared in-window).
 
-Tonight is a concept issue. The external tape was thin in our window; instead, here’s a tight playbook for turning our fee constraint into an advantage.
-
-What matters for PredictStreet
-- Our fee math is a feature if we use it. The taker fee is a fixed 240 bps, quadratic in P*(1−P); maker is 0 on‑chain by design. That creates predictable post‑fee breakevens and lets us …</description>
+What we’re teaching: Running short-horizon, in‑play markets on a CLOB
+- Instrument: 5m/30m/1h score/possession/shot-on-target ladders differ from result markets. Inventories decay fast; adverse selection hides in the next 15 seconds, not next week.
+- Fee math: Our taker fee is 240 bps quadratic in P*(1−P). Maker is 0 on‑cha…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 02:18:43 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2192443" type="audio/mpeg" />
-      <itunes:title>20 Aug — The vig is quadratic; use it</itunes:title>
-      <itunes:duration>4:13</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 03:51:14 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2975566" type="audio/mpeg" />
+      <itunes:title>20 Aug — The spread is a personality test</itunes:title>
+      <itunes:duration>5:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
