@@ -19,24 +19,17 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>21 Aug — Tight spreads without being the house</title>
-      <description>PRIVATE — Head of Products only  
-DATE: 2026-08-21
+      <title>21 Aug — The maker edge when the vig is fixed</title>
+      <description>## Tonight’s issue — concept sprint (no Act items in window)
 
-Null issue — concept (2–3 minutes)
-
-Title: Tight spreads without being the house
-
-Why this now
-- We’re lining up more short‑horizon sports markets (goals, corners, overs in 10–15m windows) for World Cup–adjacent traffic. Getting price + depth without AMM inventory is the trick.
-
-Mechanism — the playbook
-- Stay CLOB: We don’t warehouse risk. Make…</description>
+### The problem we’re solving
+- PredictStreet’s taker fee is a fixed 240 bps (quadratic in P·(1−P)) and maker is 0 on‑chain; MM economics live off‑chain. That caps how much spread we can “pay” in fee cuts.
+- LATAM + India are our growth tracks; deposits must feel instant (PIX/UPI) and makers must feel paid for inventory and quote quali…</description>
       <guid isPermaLink="false">ps-intel-2026-08-21</guid>
-      <pubDate>Thu, 20 Aug 2026 20:32:18 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="2340064" type="audio/mpeg" />
-      <itunes:title>21 Aug — Tight spreads without being the house</itunes:title>
-      <itunes:duration>4:34</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 21:26:36 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="4084106" type="audio/mpeg" />
+      <itunes:title>21 Aug — The maker edge when the vig is fixed</itunes:title>
+      <itunes:duration>8:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />

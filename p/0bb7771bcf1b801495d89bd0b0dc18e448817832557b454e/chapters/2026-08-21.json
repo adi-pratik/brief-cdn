@@ -3,7 +3,23 @@
   "chapters": [
     {
       "startTime": 0,
-      "title": "The one thing"
+      "title": "What moved"
+    },
+    {
+      "startTime": 21,
+      "title": "Deep cut \u2014 Paying for the book you want when you can\u2019t cut the vig"
+    },
+    {
+      "startTime": 325,
+      "title": "Competitive \u2014 read their mechanics, borrow their best"
+    },
+    {
+      "startTime": 391,
+      "title": "Product & rails \u2014 two sprints that move the needle"
+    },
+    {
+      "startTime": 438,
+      "title": "What I would do"
     }
   ]
 }
