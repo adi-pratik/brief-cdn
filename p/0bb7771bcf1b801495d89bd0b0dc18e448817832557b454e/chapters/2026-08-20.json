@@ -3,27 +3,31 @@
   "chapters": [
     {
       "startTime": 0,
-      "title": "The one thing"
+      "title": "The One Thing"
     },
     {
-      "startTime": 32,
-      "title": "What moved"
+      "startTime": 18,
+      "title": "What Moved"
     },
     {
-      "startTime": 43,
-      "title": "Deep cut \u2014 turning fee geometry into inventory"
+      "startTime": 81,
+      "title": "Deep Cut (5\u20136 minutes)"
     },
     {
-      "startTime": 194,
-      "title": "Competitive \u2014 what the other pits teach us"
+      "startTime": 169,
+      "title": "Competitive"
     },
     {
-      "startTime": 226,
-      "title": "Product & rails \u2014 faster money is tighter spreads"
+      "startTime": 207,
+      "title": "Product & Rails"
     },
     {
-      "startTime": 315,
-      "title": "What I would do"
+      "startTime": 252,
+      "title": "What I Would Do"
+    },
+    {
+      "startTime": 289,
+      "title": "Recap"
     }
   ]
 }
