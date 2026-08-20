@@ -19,20 +19,20 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>20 Aug — How we outbid AMMs without maker rebates</title>
+      <title>The spread is a personality test</title>
       <description>Private — Head of Products
 
-Tonight is a concept issue (no meaningful new moves in-window). We’re using the slot to sharpen an edge we can ship.
+Null issue (concept night). Our scan across P0 geos and Tier‑1 venues turned up no material actions inside the 24‑hour window. Publishing a short differentiator instead of filler.
 
-Title: How we outbid AMMs without maker rebates
+Title: The spread is a personality test — paying for tight books without touching the on‑chain fee
 
-Why this matters
-- We run an off-chain CLOB with maker fee = 0 on-chain and a fixed 240 bps taker fee that scales with P·(1−P). We cannot change those on-chain. All MM economics must be off-chain. That sh…</description>
+What we’re solving
+- Constraint: taker fee is fixed at 240 bps × P(1−P); maker fee on‑chai…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 11:38:29 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="1907037" type="audio/mpeg" />
-      <itunes:title>20 Aug — How we outbid AMMs without maker rebates</itunes:title>
-      <itunes:duration>3:42</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 12:37:23 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2278223" type="audio/mpeg" />
+      <itunes:title>The spread is a personality test</itunes:title>
+      <itunes:duration>4:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
