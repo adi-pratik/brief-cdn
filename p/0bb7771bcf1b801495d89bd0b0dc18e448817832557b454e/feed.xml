@@ -19,21 +19,16 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>20 Aug — Basis and rails: how we win on fees</title>
-      <description>Title: 20 Aug — Basis and rails: how we win on fees
+      <title>20 Aug — Settle the last second: TWAP or bust</title>
+      <description>Tonight is a null issue — nothing material and primary to print out of Gibraltar/UK, East Africa, UAE/MENA, Brazil or India in this 24‑hour window. We’re not going to fill the map with ‘no updates’. Instead, one precision item you can act on.
 
-Tonight’s concept (2–3 min)
-- The map is thin; we ship a playbook. Two moves:
-  1) Turn cross‑venue basis into P&amp;L by making makers faster and clearer on our CLOB than AMMs can be at the same vig.
-  2) Land local rails (PIX/UPI) end‑to‑end for USDC while keeping our 240 bps quadratic taker and maker=0 on‑chain unchanged.
-
-Why this matters now
--…</description>
+The one thing — Stop settling on a single second
+- Problem: 5m–15m crypto books that resolve on a published “last tick” invite last‑second prints and price…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 18:32:36 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2481418" type="audio/mpeg" />
-      <itunes:title>20 Aug — Basis and rails: how we win on fees</itunes:title>
-      <itunes:duration>4:43</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 19:39:14 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="2365095" type="audio/mpeg" />
+      <itunes:title>20 Aug — Settle the last second: TWAP or bust</itunes:title>
+      <itunes:duration>4:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
