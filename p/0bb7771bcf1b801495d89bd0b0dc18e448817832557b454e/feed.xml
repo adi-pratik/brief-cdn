@@ -19,20 +19,27 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>Gibraltar clears our legal runway; Brazil still tries to shut us down, but volume still flies</title>
-      <description>### 19–20 August 2026 Highlights (private head‑of‑products)
+      <title>21 Aug — Tight spreads without being the house</title>
+      <description>PRIVATE — Head of Products only  
+DATE: 2026-08-21
 
-**Gibraltar**
-• **Headline:** Gibraltar publishes Prediction Market Regulations 2026, effective 13 July 2026.
-• **What happened:** Gibraltar's authorities have formally carved out prediction‑market activity—including order‑book models like ours—from traditional betting regulation. The new regime treats them distinctly, recognising their…</description>
-      <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 19:45:54 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3007154" type="audio/mpeg" />
-      <itunes:title>Gibraltar clears our legal runway; Brazil still tries to shut us down, but volume still flies</itunes:title>
-      <itunes:duration>5:55</itunes:duration>
+Null issue — concept (2–3 minutes)
+
+Title: Tight spreads without being the house
+
+Why this now
+- We’re lining up more short‑horizon sports markets (goals, corners, overs in 10–15m windows) for World Cup–adjacent traffic. Getting price + depth without AMM inventory is the trick.
+
+Mechanism — the playbook
+- Stay CLOB: We don’t warehouse risk. Make…</description>
+      <guid isPermaLink="false">ps-intel-2026-08-21</guid>
+      <pubDate>Thu, 20 Aug 2026 20:32:18 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="2340064" type="audio/mpeg" />
+      <itunes:title>21 Aug — Tight spreads without being the house</itunes:title>
+      <itunes:duration>4:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
-      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
+      <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />
     </item>
   </channel>
 </rss>
