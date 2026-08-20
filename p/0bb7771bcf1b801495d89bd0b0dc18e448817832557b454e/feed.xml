@@ -19,19 +19,21 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>19 Aug — The vig is a personality test</title>
-      <description>Private — Head of Products
+      <title>20 Aug — Basis cleaners and the post‑only reset</title>
+      <description>Private — Head of Products only
 
-Null issue: nothing material cleared cite-check in the window. We’re using the slot to sharpen a differentiator we control today: maker-side economics and basis capture across venues.
+20 Aug — Concept issue (no material moves in-window after cite check). We ship a differentiator instead of silence.
 
-What we’re standardising now (concept, not a claim of news)
+The one thing
+- Deploy a cross‑venue basis cleaner bot plus a post‑only restart routine; fund it with an off‑chain maker rebate ladder that keeps us inside our fee constraints (taker 240 bps quadratic; maker 0 on‑chain).
 
-- Our constraint: taker 240 bps quadratic in P·(1−P) for the market’s life; maker 0 on‑chain, rebates off‑chain. That’s a des…</description>
+Why this wins
+- Cross‑venue…</description>
       <guid isPermaLink="false">ps-intel-2026-08-20</guid>
-      <pubDate>Wed, 19 Aug 2026 23:20:46 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3131100" type="audio/mpeg" />
-      <itunes:title>19 Aug — The vig is a personality test</itunes:title>
-      <itunes:duration>6:07</itunes:duration>
+      <pubDate>Thu, 20 Aug 2026 01:01:13 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-20.mp3" length="3565413" type="audio/mpeg" />
+      <itunes:title>20 Aug — Basis cleaners and the post‑only reset</itunes:title>
+      <itunes:duration>6:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-20.json" type="application/json+chapters" />
