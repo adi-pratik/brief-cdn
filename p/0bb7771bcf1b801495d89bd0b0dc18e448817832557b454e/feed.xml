@@ -19,20 +19,18 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>21 Aug — Maker rebates without changing the chain</title>
+      <title>21 Aug — Short clocks, sharp teeth</title>
       <description>Private — Head of Products
 
-Null issue (window Aug 20–21, 2026): No material, citable moves across our P0 geos or Tier‑1/2 competitors inside the 24‑hour window. Per the editorial bar, we’re shipping a 2–3 minute concept you can use in product this morning.
+Tonight is a concept issue. Our probes across P0 geos (UK/Gibraltar, Tanzania/East Africa, UAE/MENA, Brazil/LATAM, India/SEA) and Tier‑1/crypto‑native venues surfaced no material moves inside the window you gave us (Aug 20–21, local +04).
 
-Concept — Buying the spread without touching on‑chain fees
-
-What we have
-- Fixed taker fee: 240 bps, quadratic in P·(1–P). Maker fee on‑chai…</description>
+Mechanism note — Short clocks, sharp teeth
+- Problem: In 5–30 minute “up/down” crypto books, makers are picked off by faster takers…</description>
       <guid isPermaLink="false">ps-intel-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 12:44:04 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="2275182" type="audio/mpeg" />
-      <itunes:title>21 Aug — Maker rebates without changing the chain</itunes:title>
-      <itunes:duration>4:20</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 13:51:27 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="3017480" type="audio/mpeg" />
+      <itunes:title>21 Aug — Short clocks, sharp teeth</itunes:title>
+      <itunes:duration>5:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />
