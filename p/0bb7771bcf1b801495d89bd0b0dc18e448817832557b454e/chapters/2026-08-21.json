@@ -3,23 +3,27 @@
   "chapters": [
     {
       "startTime": 0,
+      "title": "The one thing"
+    },
+    {
+      "startTime": 42,
       "title": "What moved"
     },
     {
-      "startTime": 21,
-      "title": "Deep cut \u2014 How to win inventory without rebates"
+      "startTime": 208,
+      "title": "Deep cut \u2014 The spread is a personality test"
     },
     {
-      "startTime": 239,
+      "startTime": 436,
       "title": "Competitive"
     },
     {
-      "startTime": 261,
+      "startTime": 536,
       "title": "Product & rails"
     },
     {
-      "startTime": 287,
-      "title": "What I\u2019d do now"
+      "startTime": 645,
+      "title": "What I would do"
     }
   ]
 }

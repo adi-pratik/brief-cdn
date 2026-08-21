@@ -19,21 +19,15 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>21 Aug — Quoting the spread without rebates</title>
-      <description>Null issue — concept night.
+      <title>21 Aug — CFTC puts prediction on the record</title>
+      <description>What changed for us
 
-The play: earning flow (and PnL) without maker rebates
-
-Why now
-
-What matters to PredictStreet
-- Our constraints: fully collateralised CLOB, quadratic taker fee at 240 bps × P×(1−P), maker 0 on‑chain; all MM economics are off‑chain accruals.
-- Translation: we can’t buy flow with on‑chain rebates. We have to quote smart, fill first, and keep inventory tame when the boo…</description>
+- US — CFTC sat down on August 20 for the inaugural Innovation Advisory Committee (IAC) meeting; “prediction markets &amp; event contracts” were named focus areas on the published agenda and event page. This is the first scheduled public forum under the new Chair to scope how incentives, listings, and surveillance should work. Why it matters: even without rule text, staff takeawa…</description>
       <guid isPermaLink="false">ps-intel-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 05:35:18 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="2809989" type="audio/mpeg" />
-      <itunes:title>21 Aug — Quoting the spread without rebates</itunes:title>
-      <itunes:duration>5:28</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 06:39:42 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="6459714" type="audio/mpeg" />
+      <itunes:title>21 Aug — CFTC puts prediction on the record</itunes:title>
+      <itunes:duration>12:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />
