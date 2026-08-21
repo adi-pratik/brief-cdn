@@ -3,22 +3,26 @@
   "chapters": [
     {
       "startTime": 0,
+      "title": "The one thing"
+    },
+    {
+      "startTime": 33,
       "title": "What moved"
     },
     {
-      "startTime": 124,
-      "title": "Deep cut \u2014 building a knockout-night market like a market"
+      "startTime": 121,
+      "title": "Deep cut \u2014 The market is a machine: spread, depth, and the quadratic vig"
     },
     {
-      "startTime": 365,
-      "title": "Competitive"
+      "startTime": 330,
+      "title": "Competitive \u2014 who moved and where it hits us"
     },
     {
-      "startTime": 387,
-      "title": "Product & rails \u2014 the \u2018Knockout Night\u2019 template"
+      "startTime": 439,
+      "title": "Product & rails \u2014 what we\u2019d ship, given tonight"
     },
     {
-      "startTime": 461,
+      "startTime": 505,
       "title": "What I would do"
     }
   ]

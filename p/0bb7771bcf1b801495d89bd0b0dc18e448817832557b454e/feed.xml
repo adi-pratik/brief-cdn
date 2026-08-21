@@ -19,15 +19,16 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>21 Aug — Knockouts make the book</title>
-      <description>What moved (window: Aug 19–21 local)
+      <title>21 Aug — ECB’s ‘Appia’ token rail; CFTC’s innovation huddle</title>
+      <description>## What moved (window close: 2026-08-21 07:43 +04)
 
-- LATAM — CONMEBOL Sudamericana confirmed the Santa Fe (COL) vs River Plate (ARG) Round-of-16 schedule after last week’s Colombia quake reshuffle. First leg in Bogotá was set and played on Wednesday, Aug 19; return next Wednesday, Aug 26 in Buenos Aires. Good, fixed kickoff slots in primetime LATAM. ([gol.conmebol.com](https://gol.conmebol.com/sudamericana/es…</description>
+- headline: ECB names members for ‘Appia’ tokenisation contact group (Pontes/Appia program)
+  what_happened: On Aug 19, the ECB said 61 firms and public bodies will join its new Appia contact group to support tokenised settlement rails alongside Pontes (DLT bridge to TARGET Services); the group starts work in September and will publish summaries…</description>
       <guid isPermaLink="false">ps-intel-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 02:25:43 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="4512176" type="audio/mpeg" />
-      <itunes:title>21 Aug — Knockouts make the book</itunes:title>
-      <itunes:duration>8:55</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 03:50:33 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="5143419" type="audio/mpeg" />
+      <itunes:title>21 Aug — ECB’s ‘Appia’ token rail; CFTC’s innovation huddle</itunes:title>
+      <itunes:duration>10:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />
