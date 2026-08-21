@@ -3,22 +3,26 @@
   "chapters": [
     {
       "startTime": 0,
+      "title": "The one thing"
+    },
+    {
+      "startTime": 46,
       "title": "What moved"
     },
     {
-      "startTime": 14,
-      "title": "Deep cut \u2014 How to buy real depth when taker is fixed and maker is 0"
+      "startTime": 172,
+      "title": "Deep cut \u2014 How athlete markets bite the book (and the book bites back)"
     },
     {
-      "startTime": 278,
+      "startTime": 417,
       "title": "Competitive"
     },
     {
-      "startTime": 310,
+      "startTime": 498,
       "title": "Product & rails"
     },
     {
-      "startTime": 328,
+      "startTime": 596,
       "title": "What I would do"
     }
   ]

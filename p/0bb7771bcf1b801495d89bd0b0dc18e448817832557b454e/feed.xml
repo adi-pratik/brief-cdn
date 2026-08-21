@@ -19,24 +19,16 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>21 Aug — The maker play when the fee is fixed</title>
-      <description>Private — Head of Products
+      <title>21 Aug — Athlete props in the rulebook, Brazil tightens the data screws</title>
+      <description>## What actually moved (last 24h)
 
-Date: 2026-08-21
-Window: 2026-08-20 → 2026-08-21 (+04:00)
-
-Title: The maker play when the fee is fixed
-
-What changed for us
-- Window was light on material actions in our P0 geos and competitors. Publishing a concept issue per charter.
-
-Strategy note — Building real depth with a fixed taker and 0 on-chain maker
-- Fee reality: Our taker fee is 240 bps (quadratic by P·(1–…</description>
+- headline: Kalshi posts new product certification for athlete-participation contracts ("ATHLETEEVENT")
+  what_happened: Kalshi published contract specifications for athlete participation/event appearance markets (examples cite Messi, Mahomes, Biles), setting tick size, position limits and explicitly defining "actively compete" and last-price settlement if event…</description>
       <guid isPermaLink="false">ps-intel-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 08:36:55 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="3161481" type="audio/mpeg" />
-      <itunes:title>21 Aug — The maker play when the fee is fixed</itunes:title>
-      <itunes:duration>6:08</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 09:48:03 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="5963489" type="audio/mpeg" />
+      <itunes:title>21 Aug — Athlete props in the rulebook, Brazil tightens the data screws</itunes:title>
+      <itunes:duration>11:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />
