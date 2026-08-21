@@ -3,26 +3,22 @@
   "chapters": [
     {
       "startTime": 0,
-      "title": "The one thing"
-    },
-    {
-      "startTime": 42,
       "title": "What moved"
     },
     {
-      "startTime": 208,
-      "title": "Deep cut \u2014 The spread is a personality test"
+      "startTime": 105,
+      "title": "Deep cut \u2014 how this maps to our book"
     },
     {
-      "startTime": 436,
+      "startTime": 288,
       "title": "Competitive"
     },
     {
-      "startTime": 536,
+      "startTime": 354,
       "title": "Product & rails"
     },
     {
-      "startTime": 645,
+      "startTime": 460,
       "title": "What I would do"
     }
   ]
