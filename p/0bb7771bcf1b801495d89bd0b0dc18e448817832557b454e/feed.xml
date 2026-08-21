@@ -19,14 +19,21 @@
     </itunes:owner>
     <podcast:locked>yes</podcast:locked>
     <item>
-      <title>21 Aug — Brazil’s IBIA tie-up is the tell</title>
-      <description>The one thing
-- Brazil’s SPA published the text of Technical Cooperation Agreement No. 38 with the International Betting Integrity Association (IBIA): five-year term, two-way sharing of suspicious-betting alerts within five days, workshops, and an integrity workflow. Primary, posted to SPA’s site and retrieved today. This raises the bar for integrity plumbing in Brazil. ([gov.br](https://www.gov.…</description>
+      <title>21 Aug — Quoting the spread without rebates</title>
+      <description>Null issue — concept night.
+
+The play: earning flow (and PnL) without maker rebates
+
+Why now
+
+What matters to PredictStreet
+- Our constraints: fully collateralised CLOB, quadratic taker fee at 240 bps × P×(1−P), maker 0 on‑chain; all MM economics are off‑chain accruals.
+- Translation: we can’t buy flow with on‑chain rebates. We have to quote smart, fill first, and keep inventory tame when the boo…</description>
       <guid isPermaLink="false">ps-intel-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 04:41:33 +0000</pubDate>
-      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="5250138" type="audio/mpeg" />
-      <itunes:title>21 Aug — Brazil’s IBIA tie-up is the tell</itunes:title>
-      <itunes:duration>10:29</itunes:duration>
+      <pubDate>Fri, 21 Aug 2026 05:35:18 +0000</pubDate>
+      <enclosure url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/2026-08-21.mp3" length="2809989" type="audio/mpeg" />
+      <itunes:title>21 Aug — Quoting the spread without rebates</itunes:title>
+      <itunes:duration>5:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/cover.jpg" />
       <podcast:chapters url="https://adi-pratik.github.io/brief-cdn/p/0bb7771bcf1b801495d89bd0b0dc18e448817832557b454e/chapters/2026-08-21.json" type="application/json+chapters" />
